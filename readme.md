@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h3 align="center">Frameworks & Libraries:</h3>
+<h3 align="center">Frameworks:</h3>
 <p align="center">
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
